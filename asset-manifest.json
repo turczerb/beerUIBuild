@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beeruibuild/static/css/main.f7007cb0.css",
+    "main.js": "/beeruibuild/static/js/main.a3f9df07.js",
+    "static/js/787.91bd2525.chunk.js": "/beeruibuild/static/js/787.91bd2525.chunk.js",
+    "index.html": "/beeruibuild/index.html",
+    "main.f7007cb0.css.map": "/beeruibuild/static/css/main.f7007cb0.css.map",
+    "main.a3f9df07.js.map": "/beeruibuild/static/js/main.a3f9df07.js.map",
+    "787.91bd2525.chunk.js.map": "/beeruibuild/static/js/787.91bd2525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7007cb0.css",
+    "static/js/main.a3f9df07.js"
+  ]
+}
